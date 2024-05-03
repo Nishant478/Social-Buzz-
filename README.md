@@ -9,4 +9,5 @@ Analysis of user engagement through reactions and sentiment analysis.
 Exploration of content categories and identification of popular categories.
 Examination of monthly trends in content posting and user activity.
 Insights into the platform's growth trajectory and potential opportunities.
-
+# Google Sheet link: 
+https://docs.google.com/spreadsheets/d/1WAdH-WOLfJZcww5auftFA7cWOSEY8ZBDzxPSJNrUdQM/edit?usp=drive_link
